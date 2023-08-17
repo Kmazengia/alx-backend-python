@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 
 TEST_PAYLOAD = [
@@ -949,4 +948,3 @@ TEST_PAYLOAD = [
     ['dagger', 'kratu', 'traceur-compiler', 'firmata.py'],
   )
 ]
-
